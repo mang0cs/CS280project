@@ -1,1 +1,2 @@
-# CS280project
+# Pascal-Like Lexical Analyzer, Parser and Interpreter
+
